@@ -1,9 +1,11 @@
 ## 📖 Overview
 The Monty Hall Problem is a famous probability puzzle based on the American television game show "Let's Make a Deal". This interactive web application provides a visual simulation to demonstrate the counterintuitive solution to this classic problem.
 
-Live Demo: Monty Hall Simulation
+## 🌐 Live Demo
 
+Experience the simulation in action: [Monty Hall Simulation](https://monty-hall-simulation-q4m5.onrender.com)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://monty-hall-simulation-q4m5.onrender.com)
 
 ## 🎥 Demo
 Main Page
