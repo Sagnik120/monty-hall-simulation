@@ -1,4 +1,4 @@
-📖 Overview
+## 📖 Overview
 The Monty Hall Problem is a famous probability puzzle based on the American television game show "Let's Make a Deal". This interactive web application provides a visual simulation to demonstrate the counterintuitive solution to this classic problem.
 
 Live Demo: Monty Hall Simulation
@@ -15,7 +15,7 @@ Main Page
 
 
 
-🧠 The Problem
+## 🧠 The Problem
 In the Monty Hall problem:
 
 There are three doors: one hiding a car (prize) and two hiding goats
@@ -30,22 +30,21 @@ The paradox: switching doors gives you a 2/3 chance of winning, while staying wi
 
 
 
-✨ Features
-🎯 Interactive Simulation
+## 🎯 Interactive Simulation
 Visual door selection with smooth animations
 
 Real-time simulation with adjustable speed
 
 Both "stay" and "switch" strategy implementations
 
-📊 Data Visualization
+## 📊 Data Visualization
 Real-time statistics tracking
 
 Interactive chart showing win percentages
 
 Cumulative results across multiple simulations
 
-⚙️ Customization Options
+## ⚙️ Customization Options
 Adjustable number of simulations (1-1000)
 
 Configurable animation delay
@@ -53,7 +52,7 @@ Configurable animation delay
 Reset functionality for clean testing
 
 
-🚀 Getting Started
+## 🚀 Getting Started
 Prerequisites
 Modern web browser with JavaScript enabled
 
@@ -78,7 +77,7 @@ Click "Run Simulations (Switch)" to test the switch strategy
 Observe the results in the statistics panel and chart
 
 
-🏗️ Technical Architecture
+## 🏗️ Technical Architecture
 Frontend Technologies
 HTML5: Semantic structure and accessibility
 
@@ -88,14 +87,14 @@ JavaScript ES6+: Simulation logic and interactivity
 
 Chart.js: Data visualization for results
 
-📈 Performance Considerations
+## 📈 Performance Considerations
 The simulation can run up to 1000 iterations efficiently
 
 Animation delays are customizable to balance visual clarity vs speed
 
 Chart.js provides optimized rendering for data visualization
 
-🧪 Testing Strategies
+## 🧪 Testing Strategies
 For accurate results:
 
 Run at least 100 simulations per strategy
