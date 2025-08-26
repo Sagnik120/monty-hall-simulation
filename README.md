@@ -13,6 +13,7 @@ Main Page
 
 ![Main page](images/b.png)
 
+Simulation page
 ![Simulation](images/c.png)
 
 
